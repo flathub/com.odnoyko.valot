@@ -49,8 +49,9 @@
                 {
                     "type" : "git",
                     "url" : "https://gitlab.com/valot/app/valot.git",
-                    "tag" : "v0.9.4b4",
-                    "commit" : "54ef57a58fc4cfae5d5b79695c0272a6ba4b861a"
+                    "tag" : "v0.9.4b8",
+                    "commit" : "c8706aa78eeddbc6265fe0db6e917bb303e11059"
+
                 }
             ]
         }
