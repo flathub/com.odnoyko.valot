@@ -1,12 +1,8 @@
 {
     "id" : "com.odnoyko.valot",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "50",
+    "runtime-version" : "51",
     "sdk" : "org.gnome.Sdk",
-    "sdk-extensions" : [
-        "org.freedesktop.Sdk.Extension.node20",
-        "org.freedesktop.Sdk.Extension.typescript"
-    ],
     "command" : "com.odnoyko.valot",
     "finish-args": [
         "--socket=wayland",
@@ -49,8 +45,8 @@
                 {
                     "type" : "git",
                     "url" : "https://gitlab.com/Valo27/valot.git",
-                    "tag" : "v0.9.3",
-                    "commit" : "59a67451364b5277dc45202011121ed4c49fc800"
+                    "tag" : "v0.9.4",
+                    "commit" : "99259c4775ad147a323acf59014ccff786fce272"
                 }
             ]
         }
